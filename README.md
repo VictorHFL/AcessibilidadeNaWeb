@@ -16,7 +16,6 @@ Site sobre Tropicália refatorado com foco em acessibilidade web.
 - [Como executar](#como-executar)
 - [Estrutura](#estrutura)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -66,9 +65,3 @@ AcessibilidadeNaWeb/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
