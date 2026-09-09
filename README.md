@@ -1,4 +1,4 @@
-# AcessibilidadeNaWeb
+# ♿ AcessibilidadeNaWeb
 
 Site sobre Tropicália refatorado com foco em acessibilidade web.
 
@@ -8,7 +8,7 @@ Site sobre Tropicália refatorado com foco em acessibilidade web.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Recursos de acessibilidade](#recursos-de-acessibilidade)
@@ -18,11 +18,11 @@ Site sobre Tropicália refatorado com foco em acessibilidade web.
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Refatoração de um site temático sobre Tropicália, implementando recursos de acessibilidade em HTML, CSS e JavaScript. Projeto do 3º bimestre de Programação.
 
-## Recursos de acessibilidade
+## ♿ Recursos de acessibilidade
 
 - Atributos `aria-label` e `aria-expanded`
 - Textos alternativos (`alt`) e `title` descritivos
@@ -33,14 +33,14 @@ Refatoração de um site temático sobre Tropicália, implementando recursos de 
 > [!NOTE]
 > O botão "acessibilidade" expande as opções. O contraste alterna uma classe no `body`.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5 semântico (`header`, `main`, `section`)
 - CSS3 + Bootstrap 5.3 + Bootstrap Icons
 - JavaScript (menu, fonte, contraste)
 - ScrollReveal (animações de rolagem)
 
-## Como executar
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/VictorHFL/AcessibilidadeNaWeb.git
@@ -51,7 +51,7 @@ cd AcessibilidadeNaWeb
 > [!TIP]
 > Teste com leitor de tela e navegação por Tab para validar os rótulos ARIA.
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 AcessibilidadeNaWeb/
@@ -62,11 +62,11 @@ AcessibilidadeNaWeb/
 └── README.md
 ```
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
